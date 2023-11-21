@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TERRIBLY-TINY-TALES/static/css/main.8e133eab.css",
+    "main.js": "/TERRIBLY-TINY-TALES/static/js/main.933db617.js",
+    "static/js/787.d4aba7ab.chunk.js": "/TERRIBLY-TINY-TALES/static/js/787.d4aba7ab.chunk.js",
+    "static/media/banner.jpg": "/TERRIBLY-TINY-TALES/static/media/banner.8daa404d6102e828acf5.jpg",
+    "static/media/profile-picture.jpg": "/TERRIBLY-TINY-TALES/static/media/profile-picture.374f654e36f33ea50162.jpg",
+    "static/media/company.svg": "/TERRIBLY-TINY-TALES/static/media/company.11ee41d5b116a09e4ca61d614949dc4d.svg",
+    "index.html": "/TERRIBLY-TINY-TALES/index.html",
+    "main.8e133eab.css.map": "/TERRIBLY-TINY-TALES/static/css/main.8e133eab.css.map",
+    "main.933db617.js.map": "/TERRIBLY-TINY-TALES/static/js/main.933db617.js.map",
+    "787.d4aba7ab.chunk.js.map": "/TERRIBLY-TINY-TALES/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e133eab.css",
+    "static/js/main.933db617.js"
+  ]
+}
